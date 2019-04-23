@@ -1,0 +1,8 @@
+W:\MemoryCheckTool\MemoryCheckTool\MemoryCheckTool\obj\Debug\MemoryDifferenceTool.MemoryDifferenceTool.resources
+W:\MemoryCheckTool\MemoryCheckTool\MemoryCheckTool\obj\Debug\MemoryCheckTool.Properties.Resources.resources
+W:\MemoryCheckTool\MemoryCheckTool\MemoryCheckTool\obj\Debug\MemoryDifferentTool.csproj.GenerateResource.Cache
+W:\MemoryCheckTool\MemoryCheckTool\MemoryCheckTool\obj\Debug\MemoryCheckTool.exe
+W:\MemoryCheckTool\MemoryCheckTool\MemoryCheckTool\bin\Debug\MemoryCheckTool.exe.config
+W:\MemoryCheckTool\MemoryCheckTool\MemoryCheckTool\bin\Debug\MemoryCheckTool.exe
+W:\MemoryCheckTool\MemoryCheckTool\MemoryCheckTool\bin\Debug\MemoryCheckTool.pdb
+W:\MemoryCheckTool\MemoryCheckTool\MemoryCheckTool\obj\Debug\MemoryCheckTool.pdb

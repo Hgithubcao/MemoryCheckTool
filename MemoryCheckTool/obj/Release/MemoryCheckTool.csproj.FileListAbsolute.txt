@@ -1,0 +1,9 @@
+W:\MemoryCheckTool\MemoryCheckTool\MemoryCheckTool\bin\Release\MemoryCheckTool.exe.config
+W:\MemoryCheckTool\MemoryCheckTool\MemoryCheckTool\bin\Release\MemoryCheckTool.exe
+W:\MemoryCheckTool\MemoryCheckTool\MemoryCheckTool\bin\Release\MemoryCheckTool.pdb
+W:\MemoryCheckTool\MemoryCheckTool\MemoryCheckTool\obj\Release\MemoryCheckTool.csprojResolveAssemblyReference.cache
+W:\MemoryCheckTool\MemoryCheckTool\MemoryCheckTool\obj\Release\MemoryCheckTool.MemoryCheckTool.resources
+W:\MemoryCheckTool\MemoryCheckTool\MemoryCheckTool\obj\Release\MemoryCheckTool.Properties.Resources.resources
+W:\MemoryCheckTool\MemoryCheckTool\MemoryCheckTool\obj\Release\MemoryCheckTool.csproj.GenerateResource.Cache
+W:\MemoryCheckTool\MemoryCheckTool\MemoryCheckTool\obj\Release\MemoryCheckTool.exe
+W:\MemoryCheckTool\MemoryCheckTool\MemoryCheckTool\obj\Release\MemoryCheckTool.pdb

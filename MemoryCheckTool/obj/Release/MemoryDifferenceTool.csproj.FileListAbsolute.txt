@@ -1,0 +1,11 @@
+W:\MemoryCheckTool\MemoryCheckTool\MemoryCheckTool\bin\Release\MemoryCheckTool.exe.config
+W:\MemoryCheckTool\MemoryCheckTool\MemoryCheckTool\obj\Release\MemoryCheckTool.exe
+W:\MemoryCheckTool\MemoryCheckTool\MemoryCheckTool\obj\Release\MemoryCheckTool.pdb
+W:\MemoryCheckTool\MemoryCheckTool\MemoryDifferenceTool\bin\Release\MemoryCheckTool.exe.config
+W:\MemoryCheckTool\MemoryCheckTool\MemoryDifferenceTool\obj\Release\MemoryCheckTool.exe
+W:\MemoryCheckTool\MemoryCheckTool\MemoryDifferenceTool\obj\Release\MemoryCheckTool.pdb
+W:\MemoryCheckTool\MemoryCheckTool\MemoryDifferenceTool\bin\Release\MemoryCheckTool.exe
+W:\MemoryCheckTool\MemoryCheckTool\MemoryDifferenceTool\bin\Release\MemoryCheckTool.pdb
+W:\MemoryCheckTool\MemoryCheckTool\MemoryDifferenceTool\obj\Release\MemoryDifferenceTool.MemoryDifferenceTool.resources
+W:\MemoryCheckTool\MemoryCheckTool\MemoryDifferenceTool\obj\Release\MemoryCheckTool.Properties.Resources.resources
+W:\MemoryCheckTool\MemoryCheckTool\MemoryDifferenceTool\obj\Release\MemoryDifferenceTool.csproj.GenerateResource.Cache
